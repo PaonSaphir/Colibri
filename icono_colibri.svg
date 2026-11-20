@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" fill="none">
+  <defs>
+    <!-- 1. Degradado Dominante: Verde Menta Luminoso -> Azul Profundo -->
+    <linearGradient id="bodyMintGrad" x1="25%" y1="15%" x2="80%" y2="85%">
+      <stop offset="0%" stop-color="#00F5D4" />
+      <stop offset="42%" stop-color="#2EC4B6" />
+      <stop offset="72%" stop-color="#52B788" />
+      <stop offset="100%" stop-color="#0096C7" />
+    </linearGradient>
+
+    <!-- 2. Ala Principal: Menta -> Azules -> Acento Morado en punta -->
+    <linearGradient id="primaryWingGrad" x1="88%" y1="82%" x2="12%" y2="12%">
+      <stop offset="0%" stop-color="#00F5D4" />
+      <stop offset="45%" stop-color="#2EC4B6" />
+      <stop offset="76%" stop-color="#0077B6" />
+      <stop offset="92%" stop-color="#3A86FF" />
+      <stop offset="100%" stop-color="#7209B7" />
+    </linearGradient>
+
+    <!-- 3. Ala Secundaria: Menta Suave -> Azul -> Morado Elegante -->
+    <linearGradient id="secondaryWingGrad" x1="85%" y1="75%" x2="15%" y2="18%">
+      <stop offset="0%" stop-color="#2EC4B6" stop-opacity="0.9" />
+      <stop offset="52%" stop-color="#0096C7" stop-opacity="0.95" />
+      <stop offset="85%" stop-color="#7209B7" />
+      <stop offset="100%" stop-color="#9D4EDD" />
+    </linearGradient>
+
+    <!-- 4. Cola Estilizada: Azul Profundo -> Remate Morado -->
+    <linearGradient id="tailEleganceGrad" x1="75%" y1="20%" x2="20%" y2="95%">
+      <stop offset="0%" stop-color="#0096C7" />
+      <stop offset="55%" stop-color="#0077B6" />
+      <stop offset="88%" stop-color="#7209B7" />
+      <stop offset="100%" stop-color="#9D4EDD" />
+    </linearGradient>
+
+    <!-- 5. Filo Luminoso Menta -->
+    <linearGradient id="mintHighlightGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F5D4" stop-opacity="0.95" />
+      <stop offset="65%" stop-color="#2EC4B6" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#0096C7" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <g id="colibri-minimal-mark">
+    <!-- Ala Secundaria -->
+    <path d="M 224 214 C 202 154, 162 114, 114 96 C 138 134, 158 176, 174 222 C 188 232, 208 228, 224 214 Z" fill="url(#secondaryWingGrad)" />
+    <!-- Pluma de Cola -->
+    <path d="M 196 318 C 164 358, 138 406, 122 456 C 156 422, 192 384, 228 344 C 218 334, 206 326, 196 318 Z" fill="url(#tailEleganceGrad)" />
+    <!-- Cuerpo y Pico Aguja Continuo -->
+    <path d="M 468 128 L 368 158 C 354 148, 336 144, 318 148 C 286 156, 260 182, 234 218 C 204 260, 176 314, 156 376 C 192 346, 234 322, 276 294 C 326 260, 356 218, 372 178 L 468 128 Z" fill="url(#bodyMintGrad)" />
+    <!-- Ala Principal Caligráfica -->
+    <path d="M 248 224 C 224 146, 156 80, 66 64 C 118 108, 152 168, 168 236 C 176 268, 204 274, 226 254 C 236 244, 244 234, 248 224 Z" fill="url(#primaryWingGrad)" />
+    <!-- Reflejo Menta Superior -->
+    <path d="M 358 164 C 344 154, 326 152, 308 158 C 278 168, 254 196, 232 230 C 258 202, 286 178, 320 170 C 334 166, 346 165, 358 164 Z" fill="url(#mintHighlightGrad)" />
+    <!-- Ojo Minimalista -->
+    <circle cx="342" cy="171" r="4.5" fill="#09090B" opacity="0.85" />
+  </g>
+</svg>

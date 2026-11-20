@@ -1,0 +1,200 @@
+[
+    {
+        "name": "altgraph",
+        "version": "0.17.5",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\altgraph-0.17.5.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "bcrypt",
+        "version": "5.0.0",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\bcrypt-5.0.0.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "charset_normalizer",
+        "version": "3.4.9",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\charset_normalizer-3.4.9.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "colorama",
+        "version": "0.4.6",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\colorama-0.4.6.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "customtkinter",
+        "version": "6.0.0",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\customtkinter-6.0.0.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "darkdetect",
+        "version": "0.8.0",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\darkdetect-0.8.0.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "et_xmlfile",
+        "version": "2.0.0",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\et_xmlfile-2.0.0.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "numpy",
+        "version": "2.4.6",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\numpy-2.4.6.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "openpyxl",
+        "version": "3.1.5",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\openpyxl-3.1.5.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "packaging",
+        "version": "26.3",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\packaging-26.3.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "pandas",
+        "version": "3.0.3",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\pandas-3.0.3.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "pefile",
+        "version": "2024.8.26",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\pefile-2024.8.26.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "pillow",
+        "version": "12.3.0",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\pillow-12.3.0.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "pip",
+        "version": "26.2.1",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\pip-26.2.1.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "pybind11",
+        "version": "3.1.0",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\pybind11-3.1.0.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "pyinstaller",
+        "version": "6.22.3",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\pyinstaller-6.22.3.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "pyinstaller_hooks_contrib",
+        "version": "2026.8",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\pyinstaller_hooks_contrib-2026.8.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "pyodbc",
+        "version": "5.3.0",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\pyodbc-5.3.0.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "pypdf",
+        "version": "7.1.0",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\pypdf-7.1.0.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "pyside6",
+        "version": "6.11.2",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\pyside6-6.11.2.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "pyside6_addons",
+        "version": "6.11.2",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\pyside6_addons-6.11.2.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "pyside6_essentials",
+        "version": "6.11.2",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\pyside6_essentials-6.11.2.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "python_dateutil",
+        "version": "2.9.0.post0",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\python_dateutil-2.9.0.post0.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "pywin32_ctypes",
+        "version": "0.2.3",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\pywin32_ctypes-0.2.3.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "rarfile",
+        "version": "4.5",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\rarfile-4.5.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "reportlab",
+        "version": "5.0.0",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\reportlab-5.0.0.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "setuptools",
+        "version": "84.0.0",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\setuptools-84.0.0.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "shiboken6",
+        "version": "6.11.2",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\shiboken6-6.11.2.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "six",
+        "version": "1.17.0",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\six-1.17.0.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "tkinterdnd2",
+        "version": "0.6.2",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\tkinterdnd2-0.6.2.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "tzdata",
+        "version": "2026.2",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\tzdata-2026.2.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "zstandard",
+        "version": "0.25.0",
+        "path": "C:\\Users\\Alumno\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\zstandard-0.25.0.dist-info",
+        "environment": "python-global"
+    },
+    {
+        "name": "pip",
+        "version": "25.3",
+        "path": "C:\\Users\\Alumno\\OneDrive\\Escritorio\\Gestor de librerias\\venv_prueba\\Lib\\site-packages\\pip-25.3.dist-info",
+        "environment": "venv_prueba"
+    }
+]

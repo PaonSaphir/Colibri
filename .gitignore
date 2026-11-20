@@ -1,0 +1,20 @@
+# Entornos virtuales Python (NUNCA se suben)
+venv/
+venv_prueba/
+env/
+__pycache__/
+*.pyc
+
+# Compilación
+build/
+*.o
+*.obj
+
+# Editor
+.vscode/
+
+# El ejecutable NO va en el código (lo subiremos como Release, Paso 5)
+Colibri.exefrontend/dist/
+build/
+venv/
+venv_prueba/
